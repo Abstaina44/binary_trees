@@ -27,7 +27,8 @@ typedef struct binary_tree_s heap_t;
 
 AUTHORS
 
-Ephraim Abstaina <padcliff88@gmail.com
-Abubakar Saddick <abubakrsaddickq@gmail.com>
+Ephraim Abstaina padcliff88@gmail.com
+
+Abubakar Saddick abubakrsaddickq@gmail.com>
 
 All other contributions are welcome.
