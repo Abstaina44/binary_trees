@@ -25,10 +25,3 @@ typedef struct binary_tree_s bst_t;
 typedef struct binary_tree_s avl_t;
 typedef struct binary_tree_s heap_t;
 
-AUTHORS
-
-Ephraim Abstaina padcliff88@gmail.com
-
-Abubakar Saddick abubakrsaddickq@gmail.com>
-
-All other contributions are welcome.
