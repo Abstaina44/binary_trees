@@ -41,7 +41,9 @@ int binary_tree_balance(const binary_tree_t *tree);
 int binary_tree_is_full(const binary_tree_t *tree);
 /* helper function */
 int help_scale(const binary_tree_t *tree);
-int tree_height(const binary_tree_t *tree);
+int node_depth(const binary_tree_t *node);
+int is_perfect(const binary_tree_t *tree, int *depth);
+int is_perfect(const binary_tree_t *tree, int *depth);
 int binary_tree_is_perfect(const binary_tree_t *tree);
 
 #endif
